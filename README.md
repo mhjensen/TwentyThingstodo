@@ -39,7 +39,7 @@ The overarching motivation is to ensure an equal access and right to
 - Using evidence-based practice and engaging education researchers in continuous improvement of the online experience.  What are the ways in which online education is actually better than in person?
 - Develop TA and LA pedagogical program that addresses a digital learning environment
 - Recruit LAs from 1st and 2nd year students (students that enlisted in 2018 and 2019)
-- Aid in making digital learning material, from videos and notes and exercises/projects. Professional support for media groups at UiO
+- Aid in making digital learning material, from videos and notes and exercises/projects. Professional support from media groups at UiO
 
 
 ## Ensuring a hybrid solution, _flipped classrooms as solutions_

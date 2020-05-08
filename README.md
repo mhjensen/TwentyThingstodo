@@ -46,20 +46,17 @@ The overarching motivation is to ensure an equal access and right to
 
 - Develop approach to flipped classrooms by making digital learning material of high quality, videos and lecture notes
 - Students are expected to have read the material before they come to group meetings. Quizzes and questions about material part of final grade.
-- Groups of at most ten students meet teachers and LAs amd TAs and discuss material and work on assignments (weekly exercises and projects)
+- Groups of at most ten students meet teachers and LAs and TAs and discuss material and work on assignments (weekly exercises and projects)
 - Larger component of project based work in order to also help students to socialize and build own networks
 - Establish committee immdediately which plans for hybrid solutions and explores space boundary and initial conditions. How many rooms do we have at our disposal for this? As an example, FYS-ST4155 had fall 2019 150 students. This specific course would need 15 groups with two hours each, that is two full days in a room with a capacity of ten students and two teachers, assuming with social distancing. 
 - The teaching rooms should also have large monitors that allow students who cannot attend (or do not want to) physically to participate in the group sessions
 - Extend teaching hours from 8am to 8pm, with _no economic compensation for faculty_
 
 
-##  Ensure student engagement from day one, fully online and/or hybrid solution
+## Semester start and how to eEnsure student engagement from day one, fully online and/or hybrid solution
 - Engage students with career training and research projects at an earlier stage in their education
 - Provide to a larger extent summer jobs with teaching and research elements
 - Develop small student groups with tight connection and integration with faculty, possibly mentor program from day one
-- Develop ideas to engange virtuall with exisiting students, faculty and alumni. Develop a virtual UiO community
+- Develop ideas to engange virtuall with existing students, faculty and alumni. Develop a virtual UiO community
 - Training students in how to become engaged digital citizens living in a rich and rewarding online environment
 
-
-##  Semester start for new students (all levels)
-- More text to come

@@ -17,7 +17,7 @@ The overarching motivation is to ensure an equal access and right to
  they can develop their own social and professional networks. A fully
  online first semester either for freshmen or new graduate students
  needs to account for this in the best possible way. A hybrid solution
- would make things much easier.
+ would make things much easier. Furthermore, there are many interesting educational research avenues which could be coupled to and coordinated by the Center for Computing in Science Education and similar research units.
 
 
 
@@ -48,12 +48,12 @@ The overarching motivation is to ensure an equal access and right to
 - Students are expected to have read the material before they come to group meetings. Quizzes and questions about material part of final grade.
 - Groups of at most ten students meet teachers and LAs and TAs and discuss material and work on assignments (weekly exercises and projects)
 - Larger component of project based work in order to also help students to socialize and build own networks
-- Establish committee immdediately which plans for hybrid solutions and explores space boundary and initial conditions. How many rooms do we have at our disposal for this? As an example, FYS-ST4155 had fall 2019 150 students. This specific course would need 15 groups with two hours each, that is two full days in a room with a capacity of ten students and two teachers, assuming with social distancing. 
+- Establish committee immdediately which plans for hybrid solutions and explores space boundary and initial conditions. How many rooms do we have at our disposal for this? As an example, FYS-ST4155 had fall 2019 150 students. This specific course would need 15 groups with two hours each, that is two full days in a room with a capacity of ten students and two teachers, assuming social distancing. Without social distancing we can have larger groups of twenty students.
 - The teaching rooms should also have large monitors that allow students who cannot attend (or do not want to) physically to participate in the group sessions
 - Extend teaching hours from 8am to 8pm, with _no economic compensation for faculty_
 
 
-## Semester start and how to eEnsure student engagement from day one, fully online and/or hybrid solution
+## Semester start and how to Ensure student engagement from day one, fully online and/or hybrid solution
 - Engage students with career training and research projects at an earlier stage in their education
 - Provide to a larger extent summer jobs with teaching and research elements
 - Develop small student groups with tight connection and integration with faculty, possibly mentor program from day one

@@ -50,7 +50,7 @@ The overarching motivation is to ensure an equal access and right to
 - Larger component of project based work in order to also help students to socialize and build own networks
 - Establish committee immdediately which plans for hybrid solutions and explores space boundary and initial conditions. How many rooms do we have at our disposal for this? As an example, FYS-ST4155 had fall 2019 150 students. This specific course would need 15 groups with two hours each, that is two full days in a room with a capacity of ten students and two teachers, assuming social distancing. Without social distancing we can have larger groups of twenty students.
 - The teaching rooms should also have large monitors that allow students who cannot attend (or do not want to) physically to participate in the group sessions
-- Extend teaching hours from 8am to 8pm, with _no economic compensation for faculty_
+- Extend teaching hours from 8am to 8pm
 
 
 ## Semester start and how to Ensure student engagement from day one, fully online and/or hybrid solution

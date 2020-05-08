@@ -26,7 +26,7 @@ The overarching motivation is to ensure an equal access and right to
 
 - Collaborations between USIT, CCSE, LINK and many more units
 - Search for funding initiatives on digital learning platforms and environments
-- IT postdocs. These are postdocs hired at different departments with a 50% education commitment towards digital learning and platformss and 50 % own research. Can be coordinated by CCSE.
+- IT postdocs. These are postdocs hired at different departments with a 50% education commitment towards digital learning and platforms and 50 % own research. Can be coordinated by CCSE.
 
 ## Some key issues that need to be resolved in online course delivery
 

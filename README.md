@@ -42,7 +42,7 @@ The overarching motivation is to ensure an equal access and right to
 - Aid in making digital learning material, from videos and notes and exercises/projects. Professional support from media groups at UiO
 
 
-## Ensuring a hybrid solution, _flipped classrooms as solutions_
+## Ensuring a hybrid solution, _flipped classrooms as possible solution_
 
 - Develop approach to flipped classrooms by making digital learning material of high quality, videos and lecture notes
 - Students are expected to have read the material before they come to group meetings. Quizzes and questions about material part of final grade.

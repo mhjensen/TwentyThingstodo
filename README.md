@@ -13,11 +13,15 @@ small groups of students due to social distancing.
 
 The overarching motivation is to ensure an equal access and right to
  higher educations, irrespective of background and physical situation.
- A serious problem is how to welcome new students and ensure that
- they can develop their own social and professional networks. A fully
+
+A serious problem is how to welcome new students and ensure that they
+ can develop their own social and professional networks. A fully
  online first semester either for freshmen or new graduate students
  needs to account for this in the best possible way. A hybrid solution
- would make things much easier. Furthermore, there are many interesting educational research avenues which could be coupled to and coordinated by the Center for Computing in Science Education and similar research units.
+ would make things much easier. Furthermore, there are many
+ interesting educational research avenues which could be coupled to
+ and coordinated by the Center for Computing in Science Education and
+ similar research units.
 
 
 
@@ -25,7 +29,7 @@ The overarching motivation is to ensure an equal access and right to
 ## Initiatives to improve online education
 
 - Collaborations between USIT, CCSE, LINK and many more units
-- Search for funding initiatives on digital learning platforms and environments
+- Search for funding initiatives on digital learning platforms and environments, define new calls in collaboration with research councils and universities
 - IT postdocs. These are postdocs hired at different departments with a 50% education commitment towards digital learning and platforms and 50 % own research. Can be coordinated by CCSE.
 
 ## Some key issues that need to be resolved in online course delivery
